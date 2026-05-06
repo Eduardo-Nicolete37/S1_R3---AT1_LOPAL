@@ -18,7 +18,7 @@ Uso do laço `for` para iterar de 0 a 100 e identificar quais números são pare
 ### Exercício 2: Maior e Menor de Três
 Script que recebe três números distintos e realiza a comparação lógica para exibir o maior e o menor valor entre eles.
 
-<img width="526" height="325" alt="image" src="https://github.com/user-attachments/assets/066e92ff-5149-4850-ad57-0918b37d0d61" />
+<img width="525" height="244" alt="image" src="https://github.com/user-attachments/assets/4aa28edd-de64-4de5-a661-56a48feee120" />
 
 
 ---
